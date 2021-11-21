@@ -39,10 +39,11 @@ Choose one of these Technologies for your DBMS and your ORM
 
 Feel free to use any of these technologies
 
-- [ ] Redux
-- [ ] Bootstrap
-- [ ] Tailwind
-- [ ] Gatsby
+- Redux
+- Bootstrap
+- Tailwind
+- Gatsby
+- ...
 
 ## Submission
 
@@ -51,4 +52,5 @@ Your final Deadline for submission is **`the 11th of December 2021`**. A weekly 
 To submit your work:
 
 - [ ] Make a demo of your project and upload it to [this folder](https://drive.google.com/drive/folders/14ndlnd1BK9EF7XdZLrgrNdtidr3X-r0a?usp=sharing)
+- [ ] Deploy your application to one of these [free hosting services](https://blogs.devchallenges.io/posts/tJ26U8MhZTPgBSRSwpqr) or to [heroku](https://www.heroku.com/)
 - [ ] Create a Pull Request from your forked repository
