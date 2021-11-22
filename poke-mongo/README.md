@@ -43,8 +43,7 @@ Using the existing code provided in `server/`, follow the steps below to build o
 - [ ] Populate your Mongo database with the 151 original Pokémon found in `data/pokemon.json`
 - [ ] Create a controller in `resources/pokemon/pokemonController.js` that interacts with your Pokémon model
 - [ ] Create a router in `resources/pokemon/pokemonRouter.js` that utilizes each of your controller's methods. Be sure to handle errors appropriately.
-- [ ] Import `pokemonRouter` into `server.js` and assign it to the correct route
-- [ ] Write at least two tests in `test/api-spec.js` that will help assure future developers that the API is working as intended
+- [ ] Import `pokemon.router` into `server.js` and assign it to the correct route
 
 ### Front-end
 
@@ -57,7 +56,6 @@ Your front end should be served from Express and should allow the user to:
 - [ ] Filter Pokémon based on their type
 - [ ] Edit existing Pokémon
 - [ ] Delete Pokémon
-- [ ]
 
 > **Instructions:** follow these instructions to have a well structured client application
 

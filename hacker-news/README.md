@@ -1,4 +1,4 @@
-# HackedNews
+# HackerNews
 
 You will be creating a full-stack application to display analytics about [HackerNews](https://news.ycombinator.com/) and its users. In order to do this you will be interacting with the [HackerNews API](https://github.com/HackerNews/API) using a worker process, and storing data from your calls to the API in MongoDB, using the [Mongoose ODM](http://mongoosejs.com/). Your front end will display views created from data in the database. You will use [ReactJS](https://facebook.github.io/react/) for that, and will serve your application with a [NodeJS](https://nodejs.org/) web server, using [ExpressJS](https://expressjs.com/).
 
