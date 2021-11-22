@@ -7,7 +7,7 @@ You are going to build a Pokémon API with Node, Express, and MongoDB. Your API 
 The project contains 2 main directories
 
 - `server`: for your server side
-- `client`: for your client side
+- `client`: for your client side _(will be generated in the following steps)_
 
 ## Get Started
 
