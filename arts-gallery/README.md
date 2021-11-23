@@ -18,7 +18,7 @@ To implement this user story, you should:
   ```
 - You may want to use [React Router](https://reactrouter.com/) or [Conditional Rendering](https://www.reactjs.org/docs/conditional-rendering.html) to navigate between components.
 - Write a script that would add the dummy data to your database when `npm run seed-database` is run from the command line. Add this command to the `package.json` to be able to run it with `npm`. When you have this working, run the command so that your database is populated.
-  \_Note: Create an Painting Schema under `server/models/Painting.js`. It should have these following attributes:
+  \_Note: Create a Painting Schema under `server/models/Painting.js`. It should have these following attributes:
   - `id`: Number
   - `artist`: String _(for the author field)_
   - `name`: String
@@ -83,8 +83,8 @@ Using the existing code provided in `server/`, follow the steps below to build o
 | :----------------: | :-------: | :----------: | :--------------------------------------------------------------------: |
 |   /api/paintings   |    GET    |    empty     |                      Return JSON of all Paintings                      |
 |   /api/paintings   |   POST    |     JSON     |        Create new Painting and return JSON of created Painting         |
-| /api/paintings/:id |  DELETE   |    empty     |          Return JSON of single Pokémon with matching `number`          |
-|  /api/pokemon/:id  |    PUT    |   FormData   | Update Painting with matching `id` and return JSON of updated Painting |
+| /api/paintings/:id |  DELETE   |    empty     |         Return JSON of single Painting with matching `number`          |
+| /api/paintings/:id |    PUT    |   FormData   | Update Painting with matching `id` and return JSON of updated Painting |
 
 ## Available Resources
 
