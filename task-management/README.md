@@ -30,7 +30,7 @@ To implement this user story, you should:
 
 ### Part 2 - Create new Tasks
 
-1. **As a user**, I want to be able to create new Tasks and save them in the database. Create a `NewTask` compoenenr containing these inputs:
+1. **As a user**, I want to be able to create new Tasks and save them in the database. Create a `NewTask` component containing these inputs:
 
 - `Title`: text
 - `Deadline`: date
