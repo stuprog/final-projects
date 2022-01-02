@@ -1,6 +1,6 @@
 # Gift Store
 
-You will be creating a full-stack application to manage your gift store. It will allow the owner of the stoer to execute all CRUD operations on his gifts,. In order to do this you will be using MongoDB with the [Mongoose ODM](http://mongoosejs.com/). Your front end will display views created from data in the database. You will use [ReactJS](https://facebook.github.io/react/) for that, and will serve your application with a [NodeJS](https://nodejs.org/) web server, using [ExpressJS](https://expressjs.com/).
+You will be creating a full-stackS application to manage your gift store. It will allow the owner of the stoer to execute all CRUD operations on his gifts,. In order to do this you will be using MongoDB with the [Mongoose ODM](http://mongoosejs.com/). Your front end will display views created from data in the database. You will use [ReactJS](https://facebook.github.io/react/) for that, and will serve your application with a [NodeJS](https://nodejs.org/) web server, using [ExpressJS](https://expressjs.com/).
 
 Please work on the following features **in order**, moving on to the next feature only after the one you are working on is complete. **Please commit WORKING code early and often**. In addition, after each step, please follow the guidelines for a commit message.
 
